@@ -15,7 +15,13 @@
     "utils": "@/lib/utils",
     "ui": "@/components/ui",
     "lib": "@/lib",
-    "hooks": "@/hooks"
+    "hooks": "@/hooks", 
+
+      test
+
+
+
+
   },
   "iconLibrary": "lucide"
 }
